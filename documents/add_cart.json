@@ -1,0 +1,18 @@
+{
+  "shopId": "111111",
+  "shopName": "ShopName1",
+  "items": [
+    {
+      "itemId": "12345",
+      "propertiesName": "Properties 1",
+      "itemPriceNDT": "1.37",
+      "quantity": "10"
+    },
+    {
+      "itemId": "12345",
+      "propertiesName": "Properties 2",
+      "itemPriceNDT": "2.37",
+      "quantity": "5"
+    }
+  ]
+}

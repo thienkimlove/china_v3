@@ -1,0 +1,28 @@
+{
+  "package_tally": "1",
+  "package_wooden": "1",
+  "cart_ids": [1, 2],
+  "txt_quantities": [
+    {
+      "id": "2",
+      "qty": "4"
+    },
+    {
+      "id": "1",
+      "qty": "4"
+    }
+  ],
+  "txt_comments": {
+    "sum": "Other details",
+    "cart": [
+      {
+        "id": "1",
+        "note": "Note on details"
+      },
+      {
+        "id": "2",
+        "note": "Note on details"
+      }
+    ]
+  }
+}
